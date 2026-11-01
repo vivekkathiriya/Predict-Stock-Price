@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*secret*
+*credentials*
+
+# Database
+*.db
+*.sqlite3
+
+# Machine Learning models
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+tempCodeRunnerFile.py
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

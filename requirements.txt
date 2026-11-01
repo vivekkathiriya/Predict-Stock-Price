@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+mysql-connector-python
+tensorflow==2.18.0
+scikit-learn
+python-dotenv
